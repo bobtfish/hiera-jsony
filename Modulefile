@@ -1,4 +1,4 @@
-name    'hiera_jsony'
+name    'bobtfish/hiera_jsony'
 version '0.0.1'
 author 'bobtfish'
 license 'Apache License, Version 2.0'
